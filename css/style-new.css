@@ -328,6 +328,13 @@ header .nav-1{
   padding: 12px 0;
   margin-bottom: 0;
 }
+header .nav-2{
+  padding: 12px 0;
+  /* margin-bottom: 0; */
+}
+header .nav-2 li a{
+  color: #000;
+}
 header .nav-1 ul li a{
   color: #fff;
 }
